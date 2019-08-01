@@ -1,4 +1,5 @@
 # R script to accopany Intro to R
+# Written by Troy Adair
 #######################################################
 
 # Assignment Examples
