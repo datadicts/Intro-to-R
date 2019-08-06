@@ -1,6 +1,6 @@
 # R script to accopany Intro to R
 # 
-# Written by Troy A. Adair, Jr.
+# Written by Troy A. Adair, Jr., Ph.D.
 #
 # Copy for RStudent 2019
 #
